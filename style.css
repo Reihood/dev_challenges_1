@@ -35,7 +35,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 330px;
-    height: 366px;
+    height: auto;
     padding: 16px;
     background-color: var(--clr-1);
     border-radius: 15px;
@@ -82,3 +82,4 @@ body{
     font-size: 12px;
     margin: 20px 0 0px 0;
 }
+
